@@ -1,0 +1,2 @@
+# AmalFirstRepo
+for the practice
